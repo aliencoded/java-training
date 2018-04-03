@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=
+projectKey=com.test\:test
+serverUrl=http\://prdsonarqube.vanguard.com\:19153
+version=2
